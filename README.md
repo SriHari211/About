@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srihari M</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0000000000?v=4" width="150" height="150" style="border-radius: 50%;" alt="Srihari M" />
+  <img src="(https://github.com/SriHari211/srihari-m.git)" width="150" height="150" style="border-radius: 50%;" alt="Srihari M" />
 </p>
 
 <p align="center">
