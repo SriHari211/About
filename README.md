@@ -1,5 +1,7 @@
 # 👨‍💻 Srihari M
 
+![Srihari's Profile Picture](photo_ai.jpg)
+
 🎓 Electronics & Communication Engineer | ⚙️ Embedded Systems | 🌐 IoT | 🤖 Reinforcement Learning  
 📍 Tamil Nadu, India  
 📧 harimadhes021@gmail.com | 📞 +91 99446 59078  
@@ -75,4 +77,3 @@ Aside from engineering, I enjoy **gardening** 🌿 and caring for plants — it 
 ---
 
 *“Code with clarity, build with purpose, grow with consistency.”*
-
