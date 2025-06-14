@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srihari M</h1>
+
 <p align="center">
-  <img src="(https://github.com/SriHari211/srihari-m.git)" width="150" height="150" style="border-radius: 50%;" alt="Srihari M" />
+  <img src="https://github.com/SriHari211/srihari-m/blob/main/photo_ai.jpg?raw=true" width="180" height="180" style="border-radius: 50%;" alt="Srihari M" />
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Wideband Beam Tracking Using Subspace Based Tracking Algorithm**
+- 🔭 Currently working on **Wideband Beam Tracking Using Subspace Based Tracking Algorithm**
 - 🌱 Exploring **Reinforcement Learning in Wireless Systems** and **IoT-based Automation**
 - 💬 Ask me about `Java`, `SQL`, `Arduino`, and `Embedded Systems`
 - 👯 Looking to collaborate on **IoT, AI, and Open Source Projects**
